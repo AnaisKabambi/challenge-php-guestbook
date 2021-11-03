@@ -13,3 +13,8 @@ This is an [exercise](https://github.com/becodeorg/ANT-Lamarr-5.34/tree/main/2.T
     * New (top) to old (bottom)
     * Display all elements (title, date, message, author name)
     * Only show last 20 posts
+   
+# Revelations
+   * You don't need long complicated code. Something small like 'file_put_contents()' can do a lot.
+   * There is a lot more information in the exercise readme as I thought. READ IT!
+   * Making a readme to keep track of progress is very helpful.
