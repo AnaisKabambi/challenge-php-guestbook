@@ -19,6 +19,6 @@
     <input type="text" id="message" name="message" value="<?php echo htmlspecialchars($_POST['message']); ?>"><br>
     <input type="submit" name="submit" value="Submit">
 </form>
-
+<span id="prevMesages">Previous entries to the guestbook:</span>
 </body>
 </html>

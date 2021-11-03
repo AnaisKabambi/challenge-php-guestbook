@@ -2,10 +2,6 @@
 
 class Post
 {
-public $fname ;
-public $lname ;
-public $message;
-
 
 };
 require 'Data.txt';
