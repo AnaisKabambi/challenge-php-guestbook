@@ -8,9 +8,11 @@ This is an [exercise](https://github.com/becodeorg/ANT-Lamarr-5.34/tree/main/2.T
     * Use min. 2 classes (PostLoader and Post)
 3. Store the data in a file
     * Use file_put_contents() (i think)
-    * convert array to a string to store (use json_encode())
+    * convert array to a string to store (use json_encode() or serialize())
     * PROBLEM: only the message is in the data file.
       * Solved: used a function instead of different if-statements
+    * ANOTHER PROBLEM: serialize() just returns the amount of characters
+      *Trying json_encode()
 4. Display the data
     * New (top) to old (bottom)
     * Display all elements (title, date, message, author name)

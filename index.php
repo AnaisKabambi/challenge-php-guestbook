@@ -19,13 +19,6 @@
     <input type="text" id="message" name="message" value="<?php echo htmlspecialchars($_POST['message']); ?>"><br>
     <input type="submit" name="submit" value="Submit">
 </form>
-<footer>
-    <footer>
-        <?php
-        require 'PostLoader.php';
-        require 'Post.php';
-        ?>
-    </footer>
-</footer>
+
 </body>
 </html>
