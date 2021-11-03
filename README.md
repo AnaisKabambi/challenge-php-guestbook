@@ -12,7 +12,7 @@ This is an [exercise](https://github.com/becodeorg/ANT-Lamarr-5.34/tree/main/2.T
     * PROBLEM: only the message is in the data file.
       * Solved: used a function instead of different if-statements
     * ANOTHER PROBLEM: serialize() just returns the amount of characters
-      *Trying json_encode()
+      * Trying json_encode()
 4. Display the data
     * New (top) to old (bottom)
     * Display all elements (title, date, message, author name)
