@@ -10,7 +10,8 @@
     <label for="lname">Last name:</label><br>
     <input type="text" id="lname" name="lname"><br>
     <label for="message">Message:</label><br>
-    <input type="text" id="message" name="message">
+    <input type="text" id="message" name="message"><br>
+    <input type="submit" name="submit" value="Submit">
 </form>
 </body>
 </html>
